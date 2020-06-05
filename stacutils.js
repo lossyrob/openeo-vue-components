@@ -66,7 +66,7 @@ const StacFields = {
 		suffix: "º"
 	},
 	"view:azimuth": {
-		label: "Sun azimuth",
+		label: "Viewing azimuth",
 		suffix: "º"
 	},
 	"view:sun_azimuth": {
